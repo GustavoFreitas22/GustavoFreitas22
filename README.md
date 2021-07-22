@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gustavo Freitas</h1>
 <h3 align="center">Desenvolvedor Java Jr.</h3>
 
-- 🤝 I’m looking for help with **Novos projetos com Java, JS**
+- 🤝 I’m looking for help with: **Novos projetos com Java, JS**
 
-- 💬 Ask me about **Animes, Java, JavaScript, MySQL**
+- 💬 Ask me about: **Java, JavaScript, MySQL - (Animes kkk)**
 
-- 📫 How to reach me **gusfmotta@gmail.com**
+- 📫 How to reach me: **gusfmotta@gmail.com**
 
-- ⚡ Fun fact **LoL Player (Nunca sai do Bronze 😭)**
+- ⚡ Fun fact: **LoL Player (Nunca sai do Bronze 😭)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
